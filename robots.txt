@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://khushnoodasif.com/sitemap/sitemap-index.xml
+Host: https://khushnoodasif.com
