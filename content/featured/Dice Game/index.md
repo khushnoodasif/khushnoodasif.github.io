@@ -1,0 +1,14 @@
+---
+date: '02/01/2021'
+title: 'Dice Game'
+cover: 'dice-game.png'
+github: 'https://github.com/khushnoodasif/dice-game'
+external: 'https://khushnoodasif.com/dice-game/'
+tech:
+  - CSS
+  - HTML
+  - JavaScript
+showInProjects: true
+---
+
+Dice game web app can be used to randomly roll the dice. Check out my [GitHub](https://github.com/khushnoodasif/dice-game) repo for the complete code.

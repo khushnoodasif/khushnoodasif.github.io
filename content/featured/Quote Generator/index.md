@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '01/01/2021'
 title: 'Quote Generator'
 cover: 'quote-generator.png'
 github: 'https://github.com/khushnoodasif/quote-generator/'
@@ -11,5 +11,4 @@ tech:
 showInProjects: true
 ---
 
-With the click of a button, this application retrieves a random quote from the API and displays it in a browser tab. Then you can tweet directly on Twitter. I have walked through the process on my [blog](https://blog.khushnoodasif.com/how-to-create-a-quote-generator-website). 
-
+With the click of a button, this application retrieves a random quote from the API and displays it in a browser tab. Then you can tweet directly on Twitter. I have walked through the process on my [blog](https://blog.khushnoodasif.com/how-to-create-a-quote-generator-website).
