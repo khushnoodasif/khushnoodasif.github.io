@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Assistant Site Manager'
-company: 'Haanz Painter & Decorator Ltd'
+company: 'HAANZ PAINTER & DECORATOR LTD'
 range: 'July 2020 - March 2021'
 url: 'http://haanzpainter.co.uk'
 ---

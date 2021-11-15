@@ -1,7 +1,6 @@
 ---
 date: '06/08/2021'
 title: 'Quote Generator'
-cover: 'quote-generator.png'
 github: 'https://github.com/khushnoodasif/quote-generator/'
 external: 'https://khushnoodasif.com/quote-generator/'
 tech:

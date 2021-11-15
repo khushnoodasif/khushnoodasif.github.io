@@ -1,13 +1,13 @@
 ---
-date: '2020-04-21'
+date: '2021-09-04'
 title: 'Portfolio Website'
 github: 'https://github.com/khushnoodasif/khushnoodasif.github.io'
 external: 'https://khushnoodasif.com'
 tech:
-  - HTML
-  - CSS
+  - Node.js
+  - Gatsby
   - Javascript
-  - Bootstrap
+  - React
 showInProjects: true
 ---
 

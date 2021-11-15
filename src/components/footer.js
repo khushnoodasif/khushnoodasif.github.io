@@ -93,7 +93,8 @@ const Footer = () => {
                   href={url}
                   target="_blank"
                   rel="nofollow noopener noreferrer"
-                  aria-label={name}>
+                  aria-label={name}
+                >
                   <FormattedIcon name={name} />
                 </StyledSocialLink>
               </li>
@@ -102,12 +103,12 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/khushnoodasif"
+          href="http://signup.khushnoodasif.com"
           target="_blank"
-          rel="nofollow noopener noreferrer">
+          rel="nofollow noopener noreferrer"
+        >
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
-            Revised by Khushnood Asif
+            Sign up to my newsletter! <br></br>© Khushnood Asif
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

@@ -1,5 +1,5 @@
 ---
-date: '7'
+date: '4'
 title: 'CFTE’s Global Fintech Internship'
 company: 'CFTE'
 range: 'August 2021 - September 2021'

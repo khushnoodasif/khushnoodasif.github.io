@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'Freelance Web Designer | LaTeX'
-company: 'Fiverr | Upwork'
+company: 'FIVERR | UPWORK'
 range: 'August 2021 - Present'
 url: 'https://www.upwork.com/'
 ---

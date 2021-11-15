@@ -1,7 +1,7 @@
 ---
-date : '1'
+date: '1'
 title: 'Tutor'
-company: '1st Tuition Centre'
+company: '1ST TUITION CENTRE'
 range: 'October 2017 - July 2018'
 url: 'http://ocs.co.uk'
 ---

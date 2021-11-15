@@ -1,7 +1,7 @@
 ---
 date: '6'
 title: 'Customer Assistant'
-company: 'Tesco'
+company: 'TESCO'
 range: 'November 2018 - Present'
 url: 'https://tesco.com/'
 ---
