@@ -1,5 +1,5 @@
 ---
-date: '06/08/2021'
+date: '08/06/2021'
 title: 'Newsletter Signup'
 cover: 'newsletter-signup.png'
 github: 'https://github.com/khushnoodasif/newsletter-signup'

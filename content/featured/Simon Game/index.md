@@ -1,5 +1,5 @@
 ---
-date: '03/11/2021'
+date: '11/03/2021'
 title: 'Simon Game'
 cover: 'simon-game.png'
 github: 'https://github.com/khushnoodasif/simon-game'

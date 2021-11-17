@@ -1,5 +1,5 @@
 ---
-date: '07/11/2021'
+date: '11/07/2021'
 title: 'Weather API'
 github: 'https://github.com/khushnoodasif/weather-project-api'
 external: ''

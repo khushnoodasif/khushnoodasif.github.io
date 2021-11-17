@@ -1,5 +1,5 @@
 ---
-date: '15/11/2021'
+date: '11/15/2021'
 title: 'ToDO List'
 cover: 'todo-list.png'
 github: 'https://github.com/khushnoodasif/todolist-v1'
@@ -14,4 +14,4 @@ tech:
 showInProjects: true
 ---
 
-ToDo List is a web app tha allows you to create lists for yourself and for work to stay organised. Check out my [GitHub](https://github.com/khushnoodasif/todolist-v1) repo for the complete code.
+ToDo List is a web app that allows you to create lists for yourself and for work to stay organised. Check out my [GitHub](https://github.com/khushnoodasif/todolist-v1) repo for the complete code.

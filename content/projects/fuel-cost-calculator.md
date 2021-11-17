@@ -1,5 +1,5 @@
 ---
-date: '06/08/2021'
+date: '08/06/2021'
 title: 'Fuel Cost Calculator'
 github: 'https://github.com/khushnoodasif/fuel-cost-calculator/'
 external: 'https://khushnoodasif.com/fuel-cost-calculator/'

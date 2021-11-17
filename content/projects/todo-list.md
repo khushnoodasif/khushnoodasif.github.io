@@ -1,5 +1,5 @@
 ---
-date: '15/11/2021'
+date: '11/15/2021'
 title: 'ToDO List'
 github: 'https://github.com/khushnoodasif/todolist-v1'
 external: 'https://fathomless-atoll-15154.herokuapp.com/'

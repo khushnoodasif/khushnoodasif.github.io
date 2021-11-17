@@ -1,5 +1,5 @@
 ---
-date: '02/11/2021'
+date: '11/02/2021'
 title: 'Dice Game'
 github: 'https://github.com/khushnoodasif/dice-game'
 external: 'https://khushnoodasif.com/dice-game/'

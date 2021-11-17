@@ -1,5 +1,5 @@
 ---
-date: '02/11/2021'
+date: '11/02/2021'
 title: 'Drum Kit'
 cover: 'drum-kit.png'
 github: 'https://github.com/khushnoodasif/drum-kit'
