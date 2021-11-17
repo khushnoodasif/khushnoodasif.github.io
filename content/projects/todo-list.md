@@ -11,7 +11,7 @@ tech:
   - Node.js
   - Express
   - Heroku
-showInProjects: true
+showInProjects: false
 ---
 
 ToDo List is a web app tha allows you to create lists for yourself and for work to stay organised. Check out my [GitHub](https://github.com/khushnoodasif/todolist-v1) repo for the complete code.

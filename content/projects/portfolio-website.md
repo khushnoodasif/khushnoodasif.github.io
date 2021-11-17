@@ -1,5 +1,5 @@
 ---
-date: '2021-09-04'
+date: 09/04/2021
 title: 'Portfolio Website'
 github: 'https://github.com/khushnoodasif/khushnoodasif.github.io'
 external: 'https://khushnoodasif.com'
