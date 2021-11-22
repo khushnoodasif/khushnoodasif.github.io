@@ -133,11 +133,9 @@ export const pageQuery = graphql`
       edges {
         node {
           frontmatter {
-            date
             title
-            cover
-            github
-            external
+            description
+            date
             slug
             tags
           }
