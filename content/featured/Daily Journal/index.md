@@ -11,7 +11,6 @@ tech:
   - Node.js
   - Express
   - Heroku
-showInProjects: true
 ---
 
 Daily Journal is a web app that allows you to create and publish new posts to keep track of your daily activities. Check out my [GitHub](https://github.com/khushnoodasif/blog-website) repo for the complete code.

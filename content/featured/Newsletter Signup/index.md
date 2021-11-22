@@ -11,7 +11,6 @@ tech:
   - Express.js
   - Node.js
   - API
-showInProjects: true
 ---
 
 Website signup page for weekly newsletter from me. Check out my [GitHub](http://signup.khushnoodasif.com/) repo for the complete code.

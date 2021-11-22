@@ -8,7 +8,6 @@ tech:
   - CSS
   - HTML
   - JavaScript
-showInProjects: true
 ---
 
 Drum kit web app can be used to play the drums using the mouse or keyboard. Check out my [GitHub](https://github.com/khushnoodasif/drum-kit) repo for the complete code.

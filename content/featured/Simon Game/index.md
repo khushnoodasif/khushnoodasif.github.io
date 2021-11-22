@@ -8,7 +8,6 @@ tech:
   - CSS
   - HTML
   - JavaScript
-showInProjects: true
 ---
 
 Simon game is a web app game. Check out my [GitHub](https://github.com/khushnoodasif/simon-game) repo for the complete code.

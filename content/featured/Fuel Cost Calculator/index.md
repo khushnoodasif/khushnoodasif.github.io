@@ -8,7 +8,6 @@ tech:
   - CSS
   - HTML
   - JavaScript
-showInProjects: true
 ---
 
 This web app is designed to calculate the fuel cost for a journey quickly. If you want to split costs among people traveling with you, it is easy to use. Check out my [GitHub](https://github.com/khushnoodasif/fuel-cost-calculator) repo for the complete code.

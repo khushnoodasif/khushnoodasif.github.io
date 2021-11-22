@@ -7,7 +7,7 @@ tech:
   - HTML
   - CSS
   - SCSS
-showInProjects: true
+showInProjects: false
 ---
 
 Resume Website hosted using GitHub Pages. Updates coming soon!
