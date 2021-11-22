@@ -4,11 +4,11 @@ title: 'Dice Game'
 cover: 'dice-game.png'
 github: 'https://github.com/khushnoodasif/dice-game'
 external: 'https://khushnoodasif.com/dice-game/'
-tech:
+slug: '/pensieve/dice-game'
+tags:
   - CSS
   - HTML
   - JavaScript
-showInProjects: false
 ---
 
 Dice game web app can be used to randomly roll the dice. Check out my [GitHub](https://github.com/khushnoodasif/dice-game) repo for the complete code.
