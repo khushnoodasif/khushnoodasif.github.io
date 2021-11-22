@@ -4,6 +4,7 @@ title: 'Dice Game'
 cover: 'dice-game.png'
 github: 'https://github.com/khushnoodasif/dice-game'
 external: 'https://khushnoodasif.com/dice-game/'
+description: 'A simple dice game built with JavaScript.'
 slug: '/pensieve/dice-game'
 tags:
   - CSS
