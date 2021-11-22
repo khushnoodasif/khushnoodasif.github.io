@@ -1,9 +1,7 @@
 ---
 date: '11/02/2021'
+draft: false
 title: 'Dice Game'
-cover: 'dice-game.png'
-github: 'https://github.com/khushnoodasif/dice-game'
-external: 'https://khushnoodasif.com/dice-game/'
 description: 'A simple dice game built with JavaScript.'
 slug: '/pensieve/dice-game'
 tags:
