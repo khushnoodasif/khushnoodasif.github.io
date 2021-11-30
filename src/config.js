@@ -6,7 +6,7 @@ module.exports = {
     'Khushnood Asif, Khushnood, Asif, khushnood-asif, software engineer, front-end engineer, web developer, java, javascript, europe, mechanical engineer',
   siteUrl: 'https://khushnoodasif.com',
   siteLanguage: 'en_gb',
-  googleAnalyticsID: 'G-4FNYE65PFB',
+  googleAnalyticsID: 'UA-213507236-1',
   name: 'Khushnood Asif',
   location: 'London, UK',
   email: 'khushnood99@gmail.com',
