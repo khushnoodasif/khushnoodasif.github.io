@@ -9,7 +9,7 @@ tech:
   - Express.js
   - Node.js
   - API
-showInProjects: true
+showInProjects: false
 ---
 
-Website signup page for weekly newsletter from me. Check out my [GitHub](https://github.com/khushnoodasif/weather-project-api) repo for the complete code.
+Check out my [GitHub](https://github.com/khushnoodasif/weather-project-api) repo for the complete code.

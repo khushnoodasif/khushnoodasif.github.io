@@ -49,6 +49,10 @@ module.exports = {
       url: 'http://blog.khushnoodasif.com',
     },
     {
+      name: 'Acheivements',
+      url: '/#awards',
+    },
+    {
       name: 'Contact',
       url: '/#contact',
     },
