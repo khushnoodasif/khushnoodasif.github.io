@@ -1,7 +1,6 @@
 ---
 date: '11/17/2021'
 title: 'Secrets App'
-cover: 'secrets-app.png'
 github: 'https://github.com/khushnoodasif/secrets-app'
 external: 'http://secrets.khushnoodasif.com/'
 tech:
