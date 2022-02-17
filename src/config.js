@@ -46,7 +46,7 @@ module.exports = {
     },
     {
       name: 'Blog',
-      url: 'http://blog.khushnoodasif.com',
+      url: 'https://codecaliper.me/',
     },
     {
       name: 'Acheivements',
