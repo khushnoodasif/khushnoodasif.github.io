@@ -49,10 +49,6 @@ module.exports = {
       url: 'https://codecaliper.me/',
     },
     {
-      name: 'Acheivements',
-      url: '/#awards',
-    },
-    {
       name: 'Contact',
       url: '/#contact',
     },
