@@ -1,12 +1,12 @@
 module.exports = {
   siteTitle: 'Khushnood Asif | Software Engineer',
   siteDescription:
-    'Khushnood Asif is a mechanical engineer/software engineer based in London, who develops projects using the latest web technologies and frameworks.',
+    'Khushnood Asif is a software engineer based in London, who develops projects using the latest web technologies and frameworks.',
   siteKeywords:
     'Khushnood Asif, Khushnood, Asif, khushnood-asif, software engineer, front-end engineer, web developer, java, javascript, europe, mechanical engineer',
   siteUrl: 'https://khushnoodasif.com',
   siteLanguage: 'en_gb',
-  googleAnalyticsID: 'UA-213507236-1',
+  googleAnalyticsID: 'G-4FNYE65PFB',
   name: 'Khushnood Asif',
   location: 'London, UK',
   email: 'khushnood99@gmail.com',
