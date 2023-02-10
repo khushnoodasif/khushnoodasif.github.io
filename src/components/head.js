@@ -69,6 +69,14 @@ const Head = ({ metadata }) => (
     <meta name="msapplication-TileColor" content={config.colors.navy} />
     <meta name="msapplication-TileImage" content={msIcon144x144} />
     <meta name="theme-color" content={config.colors.navy} />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HTB434WHXN"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-HTB434WHXN');
+    </script>
   </Helmet>
 );
 
